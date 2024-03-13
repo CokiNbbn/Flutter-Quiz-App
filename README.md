@@ -18,7 +18,7 @@ Flutter Quiz-App is a mobile application built using Flutter and Dart. It featur
 To get started with Flutter Quiz-App, follow these steps:
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/flutter-quiz-app.git
+   git clone https://github.com/CokiNbbn/Quiz-App.git
    ```
 2. Navigate to the project directory:
    ```
